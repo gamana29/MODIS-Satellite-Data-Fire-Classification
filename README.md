@@ -1,4 +1,4 @@
-# MODIS-Satellite-data
+# MODIS-Satellite-Data
 Deforestration (Fire Classification)
 AICTE Internship Project
 
