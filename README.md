@@ -1,11 +1,11 @@
-# 🔥 MODIS-Satellite-Data
+#  MODIS-Satellite-Data
 ### Deforestation (Fire Classification) – AICTE Internship Project
 
 A Machine Learning project leveraging thermal anomaly data from MODIS sensors (NASA’s Terra and Aqua satellites) to classify fire events such as deforestation, wildfires, and volcanic activity.
 
 ---
 
-## 🚀 Problem Statement
+##  Problem Statement
 
 This project utilizes data from the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s **Terra** and **Aqua** satellites to:
 - Detect thermal anomalies
@@ -16,12 +16,12 @@ This project utilizes data from the Moderate Resolution Imaging Spectroradiomete
 
 ## 🛰️ Satellite Data Source
 
-### 🌍 Terra Satellite
+###  Terra Satellite
 - Observes land parameters
 - Morning pass
 - Effective for early fire detection in vegetation zones
 
-### 🌊 Aqua Satellite
+###  Aqua Satellite
 - Measures water vapor, cloud & surface parameters
 - Afternoon pass
 - Tracks ongoing fire-related thermal anomalies
@@ -30,7 +30,7 @@ Both contribute to global fire anomaly detection.
 
 ---
 
-## 🔬 About MODIS Data
+## About MODIS Data
 
 MODIS captures data across electromagnetic bands for thermal and spectral analysis.
 
@@ -47,7 +47,7 @@ These are crucial in detecting:
 
 ---
 
-## 🧠 Project Goal
+##  Project Goal
 
 Build an ML model to classify fire anomalies from MODIS data, enabling:
 - Real-time wildfire detection
@@ -57,22 +57,22 @@ Build an ML model to classify fire anomalies from MODIS data, enabling:
 
 ---
 
-## 🌍 Use Cases
+##  Use Cases
 
-- 🔔 Real-time Wildfire Alerts
-- 🌾 Agricultural Burning Detection
-- 🌳 Forest Fire Management & Response
-- 🌋 Volcanic Activity Surveillance
-- 🌊 Oceanic Plate Movement Monitoring
+- Real-time Wildfire Alerts
+- Agricultural Burning Detection
+- Forest Fire Management & Response
+- Volcanic Activity Surveillance
+- Oceanic Plate Movement Monitoring
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Component | Tools Used |
 |----------|------------|
 | Language | Python |
-| ML Model | Scikit-learn, XGBoost |
+| ML Model | Scikit-learn |
 | Data | MODIS (Terra & Aqua) |
 | Analysis | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
@@ -81,7 +81,7 @@ Build an ML model to classify fire anomalies from MODIS data, enabling:
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone the repo:
 
