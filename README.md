@@ -3,9 +3,6 @@
 
 A Machine Learning project leveraging thermal anomaly data from MODIS sensors (NASA’s Terra and Aqua satellites) to classify fire events such as deforestation, wildfires, and volcanic activity.
 
-<img width="1910" height="929" alt="image" src="https://github.com/user-attachments/assets/50eddb0e-ff0d-41e0-bf07-05e5d10f2927" />
-
-
 ---
 
 ##  Problem Statement
@@ -57,6 +54,11 @@ Build an ML model to classify fire anomalies from MODIS data, enabling:
 - Forest management alerts
 - Volcanic activity monitoring
 - Integration with dashboards and APIs for field use
+
+---
+
+## Output
+<img width="1910" height="929" alt="image" src="https://github.com/user-attachments/assets/50eddb0e-ff0d-41e0-bf07-05e5d10f2927" />
 
 ---
 
