@@ -1,0 +1,9 @@
+Numpy
+Pandas
+matplotlib
+seaborn 
+scikit-learn
+folium
+streamlit-lottie
+
+
