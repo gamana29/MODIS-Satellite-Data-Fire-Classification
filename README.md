@@ -3,6 +3,8 @@
 
 A Machine Learning project leveraging thermal anomaly data from MODIS sensors (NASA’s Terra and Aqua satellites) to classify fire events such as deforestation, wildfires, and volcanic activity.
 
+"C:\Users\Gamana\OneDrive\Videos\Captures\🚀 MODIS Fire Type Classifier and 1 more page - Personal - Microsoft​ Edge 2025-08-03 18-28-49.mp4"
+
 ---
 
 ##  Problem Statement
