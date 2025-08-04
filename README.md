@@ -34,3 +34,14 @@ pip install streamlit pandas numpy scikit-learn matplotlib seaborn joblib folium
 streamlit run app.py
 
 
+----
+📁 File Structure
+bash
+Copy
+Edit
+
+├── app.py                    # Main Streamlit app
+├── best_fire_detection_model.pkl  # Trained Random Forest model
+├── scaler.pkl               # Feature scaler used during training
+├── Requirements.txt         # (Optional) Required dependencies
+
