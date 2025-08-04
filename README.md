@@ -35,6 +35,7 @@ streamlit run app.py
 ```
 
 📁 File Structure
+```bash
 bash
 Copy
 Edit
@@ -43,4 +44,5 @@ Edit
 ├── best_fire_detection_model.pkl  # Trained Random Forest model
 ├── scaler.pkl               # Feature scaler used during training
 ├── Requirements.txt         # (Optional) Required dependencies
+```
 
