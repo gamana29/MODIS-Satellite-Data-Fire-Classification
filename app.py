@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import joblib
+import pickle
 import requests
 from streamlit_lottie import st_lottie
 
@@ -18,8 +18,10 @@ def load_lottieurl(url):
 @st.cache_resource
 def load_model_and_scaler():
     try:
-        model = joblib.load("best_fire_detection_model.pkl")
-        scaler = joblib.load("scaler.pkl")
+        with open("best_fire_detection_model.pkl", "rb") as f:
+            model = pickle.load(f)
+        with open("scaler.pkl", "rb") as f:
+            scaler = pickle.load(f)
         return model, scaler
     except Exception as e:
         st.error(f"🔧 Error loading model or scaler: {e}")
