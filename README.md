@@ -32,9 +32,8 @@ pip install -r Requirements.txt
 pip install streamlit pandas numpy scikit-learn matplotlib seaborn joblib folium imbalanced-learn streamlit-lottie
 
 streamlit run app.py
+```
 
-
-----
 📁 File Structure
 bash
 Copy
